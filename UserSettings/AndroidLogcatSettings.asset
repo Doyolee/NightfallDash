@@ -1,0 +1,163 @@
+{
+    "m_SelectedDeviceId": "R3CRA0EEZYJ",
+    "m_SelectedPackage": {
+        "deviceId": "R3CRA0EEZYJ",
+        "name": "com.PTSD.NightfallDash",
+        "processId": 30811,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 7117,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 9713,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 11366,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 20255,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 28723,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 29695,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 31975,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 11398,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 14817,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 23451,
+            "exited": false
+        },
+        {
+            "deviceId": "RF9N8016AWD",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 12873,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CRA0EEZYJ",
+            "name": "com.DefaultCompany.NightfallDash",
+            "processId": 16638,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CRA0EEZYJ",
+            "name": "com.PTSD.NightfallDash",
+            "processId": 29129,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CRA0EEZYJ",
+            "name": "com.PTSD.NightfallDash",
+            "processId": 30811,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

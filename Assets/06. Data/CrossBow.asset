@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dee9c6088b43d44cb9ed05f0a6b8bdc, type: 3}
+  m_Name: CrossBow
+  m_EditorClassIdentifier: 
+  ItemType: 1
+  BulletType: 7
+  ShellType: 7
+  Ammo: 10
+  Damage: 150
+  FireTime: 1.5
+  shoot: {fileID: 8300000, guid: e7c93be9a672c7449951a25e5802dfc2, type: 3}
+  slideback: {fileID: 8300000, guid: fba06272c1b0ef44d98cdbdbda2ccb1d, type: 3}
+  slidefront: {fileID: 0}
